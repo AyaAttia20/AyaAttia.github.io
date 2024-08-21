@@ -3,11 +3,11 @@
 ### Technical Skills: Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
 ### Tools & Frameworks : Power BI, Tableau,Excel,Jupyter Notebook, Visual Studio Code, Streamlit.
 
-### EDUCATION	
-  ####Bachelor of Computers and Information 		                   2020 –2024
+## EDUCATION	
+  ###Bachelor of Computers and Information 		                   2020 –2024
      Faculty of Computers and Information, Medical Informatics, Zagazig University	    GPA: 3.93 / 4
 
-   ####Data Analysis professional Nanodegree program, Udacity		     Jan 2023 –	Feb 2023	
+   ###Data Analysis professional Nanodegree program, Udacity		     Jan 2023 –	Feb 2023	
   
 ### Projects
 **Customer Segmentation for E-commerce Personalization       Sep 2023 - Sep 2023
