@@ -10,7 +10,7 @@
    .Data Analysis professional Nanodegree program, Udacity		     Jan 2023 –	Feb 2023	
   
 ### Projects
-.Customer Segmentation for E-commerce Personalization       Sep 2023 - Sep 2023
+--Customer Segmentation for E-commerce Personalization       Sep 2023 - Sep 2023
 - Applied KMeans clustering to segment customers based on purchasing behavior.
 - Conducted data preparation and feature engineering for enhanced accuracy.
 - Optimized personalization and recommendation strategies.
