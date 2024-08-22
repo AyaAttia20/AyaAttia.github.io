@@ -14,7 +14,7 @@ _Customer Segmentation for E-commerce Personalization       Sep 2023 - Sep 2023
 - Applied KMeans clustering to segment customers based on purchasing behavior.
 - Conducted data preparation and feature engineering for enhanced accuracy.
 - Optimized personalization and recommendation strategies.
-- [Project Link]
+- [Project Link](https://github.com/AyaAttia20/unsupervised_project_customer_segmentation)
   
 _Build Your Own PyCaret                                      Sep 2023 - Oct 2023
 - Automated end-to-end model training, validation, and evaluation using PyCaret.
@@ -26,7 +26,7 @@ _Airbnb Listing EDA                                         Aug 2023 - Aug 2023
 - Executed data cleaning, transformation, and visualization using Python.
 - [Project Link]
   
-.Automated Exploratory Data Analysis                         Aug 2023 - Aug 2023
+_Automated Exploratory Data Analysis                         Aug 2023 - Aug 2023
 - Developed an automated EDA tool using Streamlit in Python.
 - Implemented dynamic data preprocessing and visualization.
 - [Project Link]
