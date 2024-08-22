@@ -47,15 +47,15 @@
 
 ## Certifications and Courses
 ### Certifications
-- Data Analysis Professional Nanodegree                 Udacity              Jan 2023 – Feb 2023
+- Data Analysis Professional Nanodegree    [Certificate](confirm.udacity.com/6PNDKSHH)                     
 ###  Courses
-- Python Programming Master    [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
-- Exploratory Data Analysis
-- Supervised Learning Foundation
-- Unsupervised Learning Foundation
+- Python Programming Master          [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
+- Exploratory Data Analysis          [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
+- Supervised Learning Foundation     [Certificate](https://alcamp.electropi.ai/certifcate/10554)
+- Unsupervised Learning Foundation   [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
 
 # Contact Me
-[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [GitHub Profile](https://github.com/AyaAttia20) | [ayaattia261@gmail.com](ayaattia261@gmail.com) |    
+[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [GitHub Profile](https://github.com/AyaAttia20) | [ayaattia261@gmail.com](ayaattia261@gmail.com)   
 My phone : +20 127 243 9739   
 Al-Sharika, Egypt
 
