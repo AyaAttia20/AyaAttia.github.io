@@ -1,4 +1,8 @@
 #  Data Scientist 
+
+## About 
+I am a passionate Machine Learning Engineer and Data Scientist with a strong background in data analysis, predictive modeling, and programming. I specialize in leveraging Python, SQL, and various data visualization tools to develop, train, and optimize machine learning models. My goal is to harness the power of data to uncover trends and inform strategic decisions, driving impactful results in every project I undertake. With a deep commitment to continuous learning, I thrive on tackling complex problems and delivering innovative solutions in the fields of machine learning and data science.
+
 ## EDUCATION	
   - Bachelor of Computers and Information|Faculty of Computers and Information| Medical Informatics | Zagazig University	                                             (2020 –2024) | (GPA: 3.93 /4)
 
