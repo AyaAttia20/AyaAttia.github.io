@@ -59,7 +59,5 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 - Unsupervised Learning Foundation       [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
 
 # Contact Me
-[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [GitHub Profile](https://github.com/AyaAttia20) | [ayaattia261@gmail.com](ayaattia261@gmail.com)   
-My phone : +20 127 243 9739   
-Al-Sharika, Egypt
+[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [GitHub Profile](https://github.com/AyaAttia20) | [ayaattia261@gmail.com](ayaattia261@gmail.com)
 
