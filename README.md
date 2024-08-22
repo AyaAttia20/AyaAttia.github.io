@@ -47,7 +47,7 @@
 
 ## Certifications and Courses
 ### Certifications
-- Data Analysis Professional Nanodegree    [Certificate](confirm.udacity.com/6PNDKSHH)                     
+- Data Analysis Professional Nanodegree    [Certificate](https://www.udacity.com/certificate/e/2952137e-8a9c-11ed-9c2e-67064310345f)                
 ###  Courses
 - Python Programming Master          [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
 - Exploratory Data Analysis          [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
