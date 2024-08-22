@@ -1,5 +1,4 @@
-#  Data Scientist  
-
+#  Data Scientist 
 ## EDUCATION	
   - Bachelor of Computers and Information|Faculty of Computers and Information| Medical Informatics | Zagazig University	                                             (2020 –2024) | (GPA: 3.93 /4)
 
