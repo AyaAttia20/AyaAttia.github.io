@@ -49,7 +49,7 @@
 ### Certifications
 - Data Analysis Professional Nanodegree                 Udacity              Jan 2023 – Feb 2023
 ###  Courses
-- Python Programming Master
+- Python Programming Master    [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
 - Exploratory Data Analysis
 - Supervised Learning Foundation
 - Unsupervised Learning Foundation
