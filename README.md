@@ -1,8 +1,5 @@
 #  Data Scientist and Machine Learning Engineer 
 
-## Technical Skills: Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
-## Tools & Frameworks : Power BI, Tableau,Excel,Jupyter Notebook, Visual Studio Code, Streamlit.
-
 ## EDUCATION	
   -Bachelor of Computers and Information 		                   2020 –2024
      Faculty of Computers and Information, Medical Informatics, Zagazig University	    GPA: 3.93 / 4
@@ -40,6 +37,9 @@
 - Performed EDA on bike share systems in Chicago, New York City, and Washington.
 - Utilized Python for data filtering, aggregation, and visualization.
 - [Project Link](https://github.com/AyaAttia20/-Explore-US-Bikeshare-Data)
+
+## Technical Skills: Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
+## Tools & Frameworks : Power BI, Tableau,Excel,Jupyter Notebook, Visual Studio Code, Streamlit.
 
 ## Courses and Certifications
 ### Certifications
