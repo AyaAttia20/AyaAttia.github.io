@@ -1,12 +1,15 @@
 #  Data Scientist 
+![Screenshot 2024-08-23 013930](https://github.com/user-attachments/assets/081d7f05-6e78-4673-a50d-dbcb9c463a67)
 
 ## About 
 I am a passionate Machine Learning Engineer and Data Scientist with a strong background in data analysis, predictive modeling, and programming. I specialize in leveraging Python, SQL, and various data visualization tools to develop, train, and optimize machine learning models. My goal is to harness the power of data to uncover trends and inform strategic decisions, driving impactful results in every project I undertake. 
 
 ## EDUCATION	
-- Bachelor of Computers and Information|Faculty of Computers and Information| Medical Informatics | Zagazig University	                                             (2020 –2024) | (GPA: 3.93 /4)
+- Bachelor of Computers and Information
+  Faculty of Computers and Information, Medical Informatics , Zagazig University
+  (2020 –2024) | (GPA: 3.93 /4)
 
-- Data Analysis professional Nanodegree program | Udacity | Jan 2023 –	Feb 2023	
+- Data Analysis professional Nanodegree program |Udacity| Jan 2023 –	Feb 2023	
   
 ## PROJECTS
 ### Customer Segmentation for E-commerce Personalization  (Sep 2023 - Sep 2023)
