@@ -45,13 +45,15 @@
 ## Certifications and Courses
 
 ### Certifications
-- Data Analysis Professional Nanodegree  [Certificate](https://www.udacity.com/certificate/e/2952137e-8a9c-11ed-9c2e-67064310345f)
-              
-###  Courses
-- Python Programming Master          [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
-- Exploratory Data Analysis          [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
-- Supervised Learning Foundation     [Certificate](https://alcamp.electropi.ai/certifcate/10554)
-- Unsupervised Learning Foundation   [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
+- Data Analysis Professional Nanodegree    [Certificate](https://www.udacity.com/certificate/e/2952137e-8a9c-11ed-9c2e-67064310345f)
+
+
+
+### Courses
+- Python Programming Master              [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
+- Exploratory Data Analysis              [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
+- Supervised Learning Foundation         [Certificate](https://alcamp.electropi.ai/certifcate/10554)
+- Unsupervised Learning Foundation       [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
 
 # Contact Me
 [LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [GitHub Profile](https://github.com/AyaAttia20) | [ayaattia261@gmail.com](ayaattia261@gmail.com)   
