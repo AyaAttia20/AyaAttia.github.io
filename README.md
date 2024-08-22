@@ -10,7 +10,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
   (2020 –2024)  (GPA: 3.93 /4)
 
 - Data Analysis professional Nanodegree program 
-    Udacity  (Jan 2023 –	Feb 2023)
+  , Udacity  (Jan 2023 –	Feb 2023)
   
 ## PROJECTS
 ### Customer Segmentation for E-commerce Personalization  (Sep 2023 - Sep 2023)
