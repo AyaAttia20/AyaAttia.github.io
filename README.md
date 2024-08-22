@@ -1,5 +1,5 @@
 #  Data Scientist 
-![Screenshot 2024-08-23 015906](https://github.com/user-attachments/assets/c0497ced-5c80-4b6c-a2b0-e0257737c9d0)
+![Screenshot 2024-08-23 013930](https://github.com/user-attachments/assets/081d7f05-6e78-4673-a50d-dbcb9c463a67)
 
 ## About 
 I am a passionate Machine Learning Engineer and Data Scientist with a strong background in data analysis, predictive modeling, and programming. I specialize in leveraging Python, SQL, and various data visualization tools to develop, train, and optimize machine learning models. My goal is to harness the power of data to uncover trends and inform strategic decisions, driving impactful results in every project I undertake. 
