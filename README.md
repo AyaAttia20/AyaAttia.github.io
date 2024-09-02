@@ -1,7 +1,3 @@
----
-layout: default
----
-
 #  Data Scientist 
 ![machine](https://github.com/user-attachments/assets/839b77f1-33b1-4aad-a209-8ffbfd321387)
 
