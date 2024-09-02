@@ -1,4 +1,4 @@
-#  Aya Attia
+#  My Portfolio
 
 ## About 
 I am a passionate Machine Learning Engineer and Data Scientist with a strong background in data analysis, predictive modeling, and programming. I specialize in leveraging Python, SQL, and various data visualization tools to develop, train, and optimize machine learning models. My goal is to harness the power of data to uncover trends and inform strategic decisions, driving impactful results in every project I undertake. 
