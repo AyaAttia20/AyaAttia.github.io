@@ -81,7 +81,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 
 📧 [ayaattia261@gmail.com](ayaattia261@gmail.com) 
 📞+2 01272439739 
-📄 [My CV ]([ayaattia261@gmail.com](https://drive.google.com/drive/folders/1NUHDMRbl-NEZHAZNljt3bjKsfddy0mRH?usp=drive_link))
+📄[My CV ](https://drive.google.com/drive/folders/1NUHDMRbl-NEZHAZNljt3bjKsfddy0mRH?usp=drive_link) 
 
 
 
