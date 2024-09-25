@@ -75,11 +75,13 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 - Unsupervised Learning Foundation       [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
 
 # Contact Me
-![image](https://github.com/user-attachments/assets/601d9d60-c687-4bee-970c-27bcc5f850b3) [LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst)
+![image](https://github.com/user-attachments/assets/601d9d60-c687-4bee-970c-27bcc5f850b3)[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst)
 
-![image](https://github.com/user-attachments/assets/172512e0-f359-4e45-8d58-bab1beeb9ba5) [GitHub Profile](https://github.com/AyaAttia20)
+![image](https://github.com/user-attachments/assets/cca7d60f-30f0-4022-af79-a30fedc30699)[GitHub Profile](https://github.com/AyaAttia20)
 
-📧 [ayaattia261@gmail.com](ayaattia261@gmail.com) | 📞+2 01272439739 | 📄 [My CV ]([ayaattia261@gmail.com](https://drive.google.com/drive/folders/1NUHDMRbl-NEZHAZNljt3bjKsfddy0mRH?usp=drive_link))
+📧 [ayaattia261@gmail.com](ayaattia261@gmail.com) 
+📞+2 01272439739 
+📄 [My CV ]([ayaattia261@gmail.com](https://drive.google.com/drive/folders/1NUHDMRbl-NEZHAZNljt3bjKsfddy0mRH?usp=drive_link))
 
 
 
