@@ -1,5 +1,6 @@
 ### Machine Learning Engineer and Data Scientist
-![Uploading Screenshot 2024-09-25 172813.png…]()
+
+![Screenshot 2024-09-25 172813](https://github.com/user-attachments/assets/9592492c-b9a5-46e5-93fd-e6fe71fc85c6)
 
 
 ## 👋👩‍💻 About Me
