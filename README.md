@@ -1,5 +1,6 @@
 ### Machine Learning Engineer and Data Scientist
-![robot](https://github.com/user-attachments/assets/06191826-1fcd-4af1-82cb-767a18b31033)
+![Uploading Screenshot 2024-09-25 172813.png…]()
+
 
 ## 👋👩‍💻 About Me
 
@@ -24,30 +25,34 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 
 
   
-### Build Your Own PyCaret ( Sep 2023 - Oct 2023)
+### [Build Your Own PyCaret](https://projectcourse4.streamlit.app/)  ( Sep 2023 - Oct 2023)
 - Automated end-to-end model training, validation, and evaluation using PyCaret.
 - Implemented model comparison for best-performing model selection.
-- [Project Link](https://projectcourse4.streamlit.app/)
+- ![Screenshot 2024-09-25 171102](https://github.com/user-attachments/assets/17a891b1-3729-4a4d-b49c-fe9596e34d86)
+
   
-### Airbnb Listing EDA (Aug 2023 - Aug 2023)
+### [Airbnb Listing EDA](https://github.com/AyaAttia20/Airbnb_Chicago_EDA)  (Aug 2023 - Aug 2023)
 - Conducted exploratory data analysis on Chicago Airbnb listings.
 - Executed data cleaning, transformation, and visualization using Python.
-- [Project Link](https://github.com/AyaAttia20/Airbnb_Chicago_EDA)
-  
-### Automated Exploratory Data Analysis (Aug 2023 - Aug 2023)
+-![Screenshot 2024-09-25 171333](https://github.com/user-attachments/assets/c29b64b4-c2dd-4e1b-9300-47bc05656d09)
+
+### [Automated Exploratory Data Analysis](https://edaproject-nslkpbdjpr8yywoxbqfivg.streamlit.app/)  (Aug 2023 - Aug 2023)
 - Developed an automated EDA tool using Streamlit in Python.
 - Implemented dynamic data preprocessing and visualization.
-- [Project Link](https://edaproject-nslkpbdjpr8yywoxbqfivg.streamlit.app/)
+- ![Screenshot 2024-09-25 171649](https://github.com/user-attachments/assets/6adc6bb9-b6e7-41b2-b404-8ef7a7d2a34b)
+
   
-### Investigate a Dataset ( Feb 2023 - Feb 2023)
+### [Investigate a Datasetk](https://github.com/AyaAttia20/-Investigate-a-Dataset-Database_No_show_appointments-)  ( Feb 2023 - Feb 2023)
 - Analyzed medical appointment dataset from Brazil using Python.
 - Conducted data cleaning, exploratory analysis, and statistical assessment.
-- [Project Link](https://github.com/AyaAttia20/-Investigate-a-Dataset-Database_No_show_appointments-)
+- ![Screenshot 2024-09-25 172216](https://github.com/user-attachments/assets/24f64806-1414-4801-af4f-69090d824363)
 
-### Explore US Bikeshare Data (Jan 2023 - Jan 2023)
+
+### [Explore US Bikeshare Data](https://github.com/AyaAttia20/-Explore-US-Bikeshare-Data)   (Jan 2023 - Jan 2023)
 - Performed EDA on bike share systems in Chicago, New York City, and Washington.
 - Utilized Python for data filtering, aggregation, and visualization.
-- [Project Link](https://github.com/AyaAttia20/-Explore-US-Bikeshare-Data)
+-  ![Screenshot 2024-09-25 172431](https://github.com/user-attachments/assets/6ddf6a65-f42c-4d9e-b930-cf37de6420ae)
+
 
 ## Technical Skills:
    Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
