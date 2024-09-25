@@ -55,28 +55,35 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 -  ![Screenshot 2024-09-25 172431](https://github.com/user-attachments/assets/6ddf6a65-f42c-4d9e-b930-cf37de6420ae)
 
 
-## Technical Skills:
+## ⚙️ Technical Skills:
    Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
-## Tools & Frameworks :
+   
+## 💻 Tools & Frameworks :
   Power BI, Tableau,Excel,Jupyter Notebook, Visual Studio Code, Streamlit.
 
-## Certifications and Courses
+## 📒 Certifications and Courses
 
-### Certifications
+### 🏆 Certifications
 - Data Analysis Professional Nanodegree    [Certificate](https://www.udacity.com/certificate/e/2952137e-8a9c-11ed-9c2e-67064310345f)
 
 
 
-### Courses
+### ✍️ Courses
 - Python Programming Master              [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
 - Exploratory Data Analysis              [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
 - Supervised Learning Foundation         [Certificate](https://alcamp.electropi.ai/certifcate/10554)
 - Unsupervised Learning Foundation       [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
 
 # Contact Me
-[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [ayaattia261@gmail.com](ayaattia261@gmail.com)
+![image](https://github.com/user-attachments/assets/601d9d60-c687-4bee-970c-27bcc5f850b3) [LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst)
 
-[GitHub Profile](https://github.com/AyaAttia20)
+![image](https://github.com/user-attachments/assets/172512e0-f359-4e45-8d58-bab1beeb9ba5) [GitHub Profile](https://github.com/AyaAttia20)
+
+📧 [ayaattia261@gmail.com](ayaattia261@gmail.com) | 📞+2 01272439739 | 📄 [My CV ]([ayaattia261@gmail.com](https://drive.google.com/drive/folders/1NUHDMRbl-NEZHAZNljt3bjKsfddy0mRH?usp=drive_link))
+
+
+
+
 
 
 
