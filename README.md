@@ -1,70 +1,48 @@
-## My Portfolio
-### Machine Learning Engineer and Data Scientist
-![robot](https://github.com/user-attachments/assets/06191826-1fcd-4af1-82cb-767a18b31033)
+Machine Learning Engineer
+📧 ayaattia261@gmail.com | 📞 +20 1272439739 | 📍 Al-Sharika, Egypt
+LinkedIn | GitHub
 
-## About 
-I am a passionate Machine Learning Engineer and Data Scientist with a strong background in data analysis, predictive modeling, and programming. I specialize in leveraging Python, SQL, and various data visualization tools to develop, train, and optimize machine learning models. My goal is to harness the power of data to uncover trends and inform strategic decisions, driving impactful results in every project I undertake. 
+👋 About Me
+I am a Junior Machine Learning Engineer with a passion for data analysis, predictive modeling, and Python programming. With hands-on experience in tools like Scikit-learn, TensorFlow, and PyCaret, I specialize in developing and optimizing machine learning models. I am adept at leading teams, collaborating on projects, and leveraging machine learning to drive innovation.
 
-## EDUCATION	
-- Bachelor of Computers and Information
-  Faculty of Computers and Information, Medical Informatics , Zagazig University
-  (2020 –2024)  (GPA: 3.93 /4)
+🎓 Education
+Bachelor of Computers and Information — Sep 2020 – Jul 2024
+Faculty of Computers and Information, Medical Informatics
+Zagazig University
+GPA: 3.93 / 4
 
-- Data Analysis professional Nanodegree program 
-  , Udacity  (Jan 2023 –	Feb 2023)
-  
-## PROJECTS
-### Customer Segmentation for E-commerce Personalization  (Sep 2023 - Sep 2023)
-- Applied KMeans clustering to segment customers based on purchasing behavior.
-- Conducted data preparation and feature engineering for enhanced accuracy.
-- Optimized personalization and recommendation strategies.
-- [Project Link](https://github.com/AyaAttia20/unsupervised_project_customer_segmentation)
-  
-### Build Your Own PyCaret ( Sep 2023 - Oct 2023)
-- Automated end-to-end model training, validation, and evaluation using PyCaret.
-- Implemented model comparison for best-performing model selection.
-- [Project Link](https://projectcourse4.streamlit.app/)
-  
-### Airbnb Listing EDA (Aug 2023 - Aug 2023)
-- Conducted exploratory data analysis on Chicago Airbnb listings.
-- Executed data cleaning, transformation, and visualization using Python.
-- [Project Link](https://github.com/AyaAttia20/Airbnb_Chicago_EDA)
-  
-### Automated Exploratory Data Analysis (Aug 2023 - Aug 2023)
-- Developed an automated EDA tool using Streamlit in Python.
-- Implemented dynamic data preprocessing and visualization.
-- [Project Link](https://edaproject-nslkpbdjpr8yywoxbqfivg.streamlit.app/)
-  
-### Investigate a Dataset ( Feb 2023 - Feb 2023)
-- Analyzed medical appointment dataset from Brazil using Python.
-- Conducted data cleaning, exploratory analysis, and statistical assessment.
-- [Project Link](https://github.com/AyaAttia20/-Investigate-a-Dataset-Database_No_show_appointments-)
+Data Analysis Professional Nanodegree — Jan 2023 – Feb 2023
+Udacity
 
-### Explore US Bikeshare Data (Jan 2023 - Jan 2023)
-- Performed EDA on bike share systems in Chicago, New York City, and Washington.
-- Utilized Python for data filtering, aggregation, and visualization.
-- [Project Link](https://github.com/AyaAttia20/-Explore-US-Bikeshare-Data)
+💼 Training
+Digital Egypt Pioneers Initiative (DEPI) — 2024
+Ministry of Communications and Information Technology
+Advanced training in machine learning, data science methodologies, and industry best practices. Gained practical experience in applying advanced machine learning techniques to real-world challenges.
+🏆 Projects
+Customer Segmentation for E-commerce Personalization — Sep 2023
+Applied KMeans clustering to segment customers based on purchasing behavior, optimizing personalization strategies and improving recommendation accuracy.
 
-## Technical Skills:
-   Python, SQL,Scikit-learn, PyCaret, TensorFlow , Pandas, NumPy, Matplotlib, Seaborn.
-## Tools & Frameworks :
-  Power BI, Tableau,Excel,Jupyter Notebook, Visual Studio Code, Streamlit.
+Build Your Own PyCaret — Sep 2023 – Oct 2023
+Automated end-to-end model training and evaluation with PyCaret, boosting model accuracy by 20%.
 
-## Certifications and Courses
+Airbnb Listing EDA — Aug 2023
+Conducted exploratory data analysis on Chicago Airbnb listings, identifying trends in pricing and booking behavior using Python.
 
-### Certifications
-- Data Analysis Professional Nanodegree    [Certificate](https://www.udacity.com/certificate/e/2952137e-8a9c-11ed-9c2e-67064310345f)
+Automated EDA Tool — Aug 2023
+Developed a Streamlit-based tool that automates exploratory data analysis, reducing analysis time by 50%.
 
+Medical Appointment No-Show Analysis — Feb 2023
+Analyzed medical appointment data to uncover factors influencing no-shows, using statistical and exploratory analysis techniques.
 
+Explore US Bikeshare Data — Jan 2023
+Performed EDA on bike-sharing data, revealing usage trends across major U.S. cities.
 
-### Courses
-- Python Programming Master              [Certificate](https://alcamp.electropi.ai/certifcate/1048C)
-- Exploratory Data Analysis              [Certificate](https://alcamp.electropi.ai/certifcate/104F0)
-- Supervised Learning Foundation         [Certificate](https://alcamp.electropi.ai/certifcate/10554)
-- Unsupervised Learning Foundation       [Certificate](https://alcamp.electropi.ai/certifcate/105B8)
-
-# Contact Me
-[LinkedIn Profile](https://www.linkedin.com/in/aya-attia-data-analyst) | [ayaattia261@gmail.com](ayaattia261@gmail.com)
-
-[GitHub Profile](https://github.com/AyaAttia20)
-
+🛠️ Skills
+Programming Languages: Python, SQL
+Machine Learning: Scikit-learn, PyCaret, TensorFlow
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Excel
+Tools & Frameworks: Jupyter Notebook, Visual Studio Code, Streamlit
+Soft Skills: Problem-solving, Communication, Adaptability, Time Management, Attention to Detail
+🌍 Languages
+Arabic: Native proficiency
+English: Professional proficiency
