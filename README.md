@@ -1,4 +1,4 @@
-![Screenshot 2024-09-25 165630](https://github.com/user-attachments/assets/91635c27-aca9-4614-80fe-a29a14e27277)### Machine Learning Engineer and Data Scientist
+### Machine Learning Engineer and Data Scientist
 ![robot](https://github.com/user-attachments/assets/06191826-1fcd-4af1-82cb-767a18b31033)
 
 ## 👋👩‍💻 About Me
