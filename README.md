@@ -43,7 +43,7 @@ I am a passionate Machine Learning Engineer and Data Scientist with a strong bac
 - ![Screenshot 2024-09-25 171649](https://github.com/user-attachments/assets/6adc6bb9-b6e7-41b2-b404-8ef7a7d2a34b)
 
   
-### [Investigate a Datasetk](https://github.com/AyaAttia20/-Investigate-a-Dataset-Database_No_show_appointments-)  ( Feb 2023 - Feb 2023)
+### [Investigate a Dataset](https://github.com/AyaAttia20/-Investigate-a-Dataset-Database_No_show_appointments-)  ( Feb 2023 - Feb 2023)
 - Analyzed medical appointment dataset from Brazil using Python.
 - Conducted data cleaning, exploratory analysis, and statistical assessment.
 - ![Screenshot 2024-09-25 172216](https://github.com/user-attachments/assets/24f64806-1414-4801-af4f-69090d824363)
